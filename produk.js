@@ -1,26 +1,26 @@
 var produk = {
-  "Action-Figure": [
+  "action-figure,manga-novel": [
     {
       nama: "Rikka Takanashi",
-      image: "assets/produk1.jpg",
+      image: "assets/Suratlamaran1.jpg",
       desc: "waifu asa fajar, rikka takanashi dari anime chuninbyou",
       harga: 150000,
     },
     {
       nama: "Roronoa Zoro",
-      image: "assets/produk2.jpg",
+      image: "assets/Suratlamaran2.jpg",
       desc: "Rorono zoro dari anime one piece,Rorono zoro dari anime tambah",
       harga: 150000,
     },
     {
       nama: "Uzumaki Naruto",
-      image: "assets/produk3.jpg",
+      image: "assets/Suratlamaran3.jpg",
       desc: "Uzumaki Naruto, Hokage ke 7 konoha Rorono zoro dari anime tambah",
       harga: 200000,
     },
     {
       nama: "Todoroki Shoto",
-      image: "assets/produk4.jpg",
+      image: "assets/Suratlamaran4.jpg",
       desc: "Todoroki Shoto dari anime My hero academy asli bukan kw",
       harga: 200000,
     },
